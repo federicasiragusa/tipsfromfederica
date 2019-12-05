@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://tipsfromfederica.com/</loc>
-		<lastmod>2019-11-30T15:15:54+01:00</lastmod>
+		<lastmod>2019-12-04T15:15:54+01:00</lastmod>
 	</url>
 	<url>
 		<loc>https://tipsfromfederica.com/airbnb-discount-code/</loc>
-		<lastmod>2019-11-30T15:14:59+01:00</lastmod>
+		<lastmod>2019-12-04T15:14:59+01:00</lastmod>
 		<image:image>
 			<image:loc>https://tipsfromfederica.com/wp-content/uploads/2019/09/IMG_20180802_103652.jpg</image:loc>
 			<image:title><![CDATA[IMG_20180802_103652]]></image:title>
@@ -14,7 +14,7 @@
 	</url>
 	<url>
 		<loc>https://tipsfromfederica.com/uber-first-ride-free/</loc>
-		<lastmod>2019-11-30T15:15:54+01:00</lastmod>
+		<lastmod>2019-12-04T15:15:54+01:00</lastmod>
 		<image:image>
 			<image:loc>https://tipsfromfederica.com/wp-content/uploads/2019/09/uber-e1567533577647.jpg</image:loc>
 			<image:title><![CDATA[uber]]></image:title>
